@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Niccolò Scatena, 25, from _Italy_.
+I’m Niccolò Scatena, 26, from _Italy_.
 
 - 🔭 I’m currently working as admin and developer for [Inforge](https://www.inforge.net).
 - 🌱 I’m currently studying _Computer Engineering (curriculum: Cybersecurity)_ at _University of Pisa_.
